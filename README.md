@@ -1,4 +1,4 @@
-# Workflow en biologie : Comparaison R et Word vs R et R Markdown
+# Workflow en biologie : comparaison R et Word _versus_ R et R Markdown
 ## Guyliann Engels, Raphael Conotte & Philippe Grosjean
 
 Exercice du cours de [Science des Données Biologiques I de l'Université de Mons, module 02](http://biodatascience-course.sciviews.org/sdd-umons/integration-des-graphiques-dans-un-rapport-r-markdown.html#a-vous-de-jouer-4).
