@@ -9,7 +9,7 @@ Exercice du cours de [Science des Données Biologiques I de l'Université de Mon
 
 ## Procédure
 
-Vous êtes dans la peau d'un biologiste qui analyse des données de biométrie humaine. Vous avez à votre disposition deux jeux de données, répartis en deux fichiers, disponibles à partir du sous-dossier `data` de ce projet.
+Vous êtes dans la peau d'un biologiste qui analyse des données de biométrie humaine. Vous avez à votre disposition deux jeux de données répartis en deux fichiers, disponibles à partir du sous-dossier `data` de ce projet.
 
 - `biometry_2014.xlsx`
 - `biometry_2016.xlsx`
@@ -27,22 +27,23 @@ Ces fichiers comprennent 7 variables :
 
 ### Analyse de `biometry_2014.xlsx`
 
-- Utilisez ce jeu de données afin de réaliser un graphique de type nuage de points. 
-Pour cela, créez un script R `biometry_graphe.R` dans un sous-dossier `R`.
+- Utilisez ce jeu de données afin de réaliser un graphique de type nuage de points (choisissez-en un qui vous parait pertinent)). Pour cela, créez un script R `biometry_graphe.R` dans un sous-dossier `R`.
 
-- Incorporez ensuite le graphique généré dans un rapport sous Microsoft Word (fichier nommé `biometry.docx` et placé dans le sous-dossier `analysis`). Structurez votre rapport avec les différentes sections de la rédaction scientifique (introduction, but, matériel et méthodes, résultats, discussion et conclusions).
+- Incorporez ensuite le graphique généré dans un rapport sous Microsoft Word (fichier nommé `biometry_word.docx` et placé dans le sous-dossier `analysis`). Structurez votre rapport avec les différentes sections de la rédaction scientifique (introduction, but, matériel et méthodes, résultats, discussion et conclusions). Ajoutez une courte phrase relative à chaque section pour donner un peu de contenu à votre rapport, sans plus. Le graphique est à incorporer dans la section "résultats". Des explications détaillées sur la rédaction scientifique se trouvent dans l’[annexe ](http://biodatascience-course.sciviews.org/sdd-umons/redaction-scientifique.html) dédiée à cette dernière.
 
-Des explications détaillées sur la rédaction scientifique se trouvent dans l’[annexe ](http://biodatascience-course.sciviews.org/sdd-umons/redaction-scientifique.html) dédiée à cette dernière.
+- Réalisez ensuite le même rapport mais dans un document R Markdown. Pour cela, complétez le document `biometry.Rmd` mis à votre disposition dans le sous-dossier `analysis` avec les différentes sections propre à un rapport scientifique. Copiez-y le texte que vous avez écrit précédemment, et utilisez le formattage propre à markdown. Incorporez-y également le graphique de type nuage de point dans la partie "résultats". Pour cela, copiez le code R issu du script `biometry_graphe.R` dans un chunks permettant de lire les données, et ensuite de réaliser le graphique.
 
-- Réaliser ensuite la meme chose mais dans un document R Markdown. Pour cela, complétez le document `biometry.Rmd` mis a votre disposition dans le sous-dossier `analysis` avec les différentes sections propre à un rapport scientifique. Incorporez-y également le graphique de type nuage de point dans la partie résultats. Pour cela, copier le code R utilisé précédemmant dans un chunks permettant de lire les données, et ensuite de réaliser le graphique.
+- Compilez votre rapport R Markdown en trois formats différents : "HTML", "PDF" et "Word". Examinez le résultat, et comparez en particulier les deux version Word de votre rapport.
+
 
 ### Nouvelles données `biometry_2016.xlsx`
 
-Considérez ce fichier comme des données supplémentaires acquises après la rédaction du rapport `biometry.docx`.
+Considérez ce fichier comme des données supplémentaires acquises après la rédaction du rapport `biometry_word.docx`/`biometry.Rmd`.
 
 - Actualisez votre rapport sous Microsoft Word avec ces nouvelles données. Vous devez bien évidemment actualiser le graphique.
 
 - Faites de même pour votre rapport sous R Markdown.
+
 
 ### Comparaison des deux méthodes
 
@@ -50,7 +51,7 @@ A la suite de vos analyses, répondez aux questions ci-dessous pour cadrer votre
 
 Utilisez un fichier Markdown (`.md`) pour y consigner vos réponses et placez-le dans votre projet RStudio.
 
-- Quel workflow vous semble le plus simple à l'utilisation ?
+- Quel workflow vous semble le plus simple à l'utilisation, et pourquoi ?
 
 - Comparez la façon dont les graphiques sont gérés dans les deux cas.
 
@@ -63,7 +64,7 @@ Utilisez un fichier Markdown (`.md`) pour y consigner vos réponses et placez-le
 
 Lors de cet exercice comparatif, vous avez eu l'occasion d'utiliser deux workfow différents :
 
-- Une version relativement classique en biologie, basé sur certains outils Microsoft Office,
-- Une version utilisant R, R Markdown et RStudio
+- Une version relativement classique en biologie, basé sur Microsoft Word pour la rédaction,
+- Une version utilisant R, R Markdown et RStudio.
 
 Vous avez pu constater les avantages du workflow basé sur R Markdown pour pouvoir reproduire, corriger et/ou amender une analyse. **Ces outils sont des éléments de base constitutifs d'un système qui permet d'analyser des données de manière moderne, rigoureuse, vérifiable et partageable.** Les avantages vous paraissent sans doute minimes sur un petit example simpliste comme celui-ci, mais imaginez une étude plus large qui traite des données volumineuses avec des dizaines de graphiques réalisés par plusieurs personnes différentes au sein de l'équipe...
