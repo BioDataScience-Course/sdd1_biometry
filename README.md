@@ -27,7 +27,7 @@ Ces fichiers comprennent 7 variables :
 
 ### Analyse de `biometry_2014.xlsx`
 
-- Utilisez ce jeu de données afin de réaliser un graphique de type nuage de points (choisissez-en un qui vous parait pertinent)). Pour cela, créez un script R `biometry_graphe.R` dans un sous-dossier `R`.
+- Utilisez ce jeu de données afin de réaliser un graphique de type nuage de points (choisissez-en un qui vous parait pertinent). Pour cela, créez un script R `biometry_graphe.R` dans un sous-dossier `R`.
 
 - Incorporez ensuite le graphique généré dans un rapport sous Microsoft Word (fichier nommé `biometry_word.docx` et placé dans le sous-dossier `analysis`). Structurez votre rapport avec les différentes sections de la rédaction scientifique (introduction, but, matériel et méthodes, résultats, discussion et conclusions). Ajoutez une courte phrase relative à chaque section pour donner un peu de contenu à votre rapport, sans plus. Le graphique est à incorporer dans la section "résultats". Des explications détaillées sur la rédaction scientifique se trouvent dans l’[annexe ](http://biodatascience-course.sciviews.org/sdd-umons/redaction-scientifique.html) dédiée à cette dernière.
 
