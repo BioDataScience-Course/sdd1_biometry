@@ -76,6 +76,54 @@ Lors de cet exercice comparatif, vous avez eu l'occasion d'utiliser deux workfow
 
 Vous avez pu constater les avantages du workflow basé sur R Markdown pour pouvoir reproduire, corriger et/ou amender une analyse. **Ces outils sont des éléments de base constitutifs d'un système qui permet d'analyser des données de manière moderne, rigoureuse, vérifiable et partageable.** Les avantages vous paraissent sans doute minimes sur un petit example simpliste comme celui-ci, mais imaginez une étude plus large qui traite des données volumineuses avec des dizaines de graphiques réalisés par plusieurs personnes différentes au sein de l'équipe...
 
+### Etat de progression 
+
+A la fin de ce module, vous devez avoir 
+
+- un script R nommé `biometry_graphe.R` qui comprend vos premiers graphique que vous utiliserez dans le document `biometry_word.docx` (dans le dossier `analysis`)
+
+- un fichier au format .doc ou .docx nommé `biometry_word.docx` (dans le dossier `analysis`) comprend le nuage de point le plus à jour.
+
+- un fichier au format .Rmd nommé `biometry.Rmd` (dans le dossier `analysis`) qui comprend le nuage de point le plus à jour.
+
+- un fichier au format .md nommé `workflow.md` (dans le dossier `analysis`) qui comprend votre comparaison des workflows.
+
 ## Module 3 et 4 : descriptions graphiques
 
+### Objectif
 
+- Compléter votre fichier `biometry.Rmd` (dans le dossier `analysis`) avec des graphiques pertinents et intéressants
+
+### Etat de progression 
+
+A la fin de ces modules, vous devez avoir différents graphiques dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`) qui vont décrire les données. Chaque graphiqe doit être explicité au dans le rapport.
+
+### Module 5
+
+### Objectifs
+
+- Remanier le tableaux de données afin de proposer des tableaux résumant les données
+
+### Etat de progression 
+
+A la fin de ce module, vous devez proposer plusieurs tableaux résumant les données mis à votre disposition dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`). Chaque tableau doit être explicité dnas le rapport
+
+### Module 6
+
+### Objectifs
+
+- acquérir et traiter des données collectées.
+
+### Acquérir des données
+
+Vous avez réalisé un protocole d'acquisition des données et vous avez complété un tableau de données avec ces métadonnées. Une fois ces données collectées, vous allez entamé une rapport structuré se nommant `biometry2019.Rmd`
+
+### Etat de progression 
+
+A la fin de ce module, vous devez avoir :
+
+- un fichier `biometry2019.Rmd` (dans le dossier `analysis`) structuré avec les sections habituelles d'un rapport scientifique (introduction, but, matériels et métodes, résultats, discussion, conclusions). 
+
+- un script R nommé `biometry2019_importation.R` afin de réaliser l'importation et la sauvegarde des données en local.
+
+- sur base des données que vous avez collecté, vous devez vous fixer une question de recherche ciblée que vous préciserez dans la section but de votre rapport. 
