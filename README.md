@@ -98,7 +98,7 @@ A la fin de ce module, vous devez avoir
 
 A la fin de ces modules, vous devez avoir différents graphiques dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`) qui vont décrire les données. Chaque graphiqe doit être explicité au dans le rapport.
 
-### Module 5
+## Module 5
 
 ### Objectifs
 
@@ -108,7 +108,7 @@ A la fin de ces modules, vous devez avoir différents graphiques dans la section
 
 A la fin de ce module, vous devez proposer plusieurs tableaux résumant les données mis à votre disposition dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`). Chaque tableau doit être explicité dnas le rapport
 
-### Module 6
+## Module 6
 
 ### Objectifs
 
