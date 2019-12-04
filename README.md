@@ -92,11 +92,11 @@ A la fin de ce module, vous devez avoir
 
 ### Objectif
 
-- Compléter votre fichier `biometry.Rmd` (dans le dossier `analysis`) avec des graphiques pertinents et intéressants
+- Compléter votre fichier `biometry.Rmd` (dans le dossier `analysis`) avec des graphiques pertinents et intéressants qui décrivent les données. 
 
 ### Etat de progression 
 
-A la fin de ces modules, vous devez avoir différents graphiques dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`) qui vont décrire les données. Chaque graphiqe doit être explicité au dans le rapport.
+A la fin de ces modules, vous devez avoir différents graphiques dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`) qui vont décrire les données. Votre rapport doit comprendre au moins 3 graphiques différents. Ces graphiques doivent être explicité dans votre rapport. 
 
 ## Module 5
 
@@ -106,7 +106,7 @@ A la fin de ces modules, vous devez avoir différents graphiques dans la section
 
 ### Etat de progression 
 
-A la fin de ce module, vous devez proposer plusieurs tableaux résumant les données mis à votre disposition dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`). Chaque tableau doit être explicité dnas le rapport
+A la fin de ce module, vous devez proposer au moins 2 tableaux résumant les données mis à votre disposition dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`). Chaque tableau doit être explicité dnas le rapport
 
 ## Module 6
 
@@ -127,3 +127,26 @@ A la fin de ce module, vous devez avoir :
 - un script R nommé `biometry2019_importation.R` afin de réaliser l'importation et la sauvegarde des données en local.
 
 - sur base des données que vous avez collecté, vous devez vous fixer une question de recherche ciblée que vous préciserez dans la section but de votre rapport. 
+
+- Votre protocole d'acquisition des données doit être explicité dans la section matériels et méthodes
+
+## Module 8
+
+### Objectif 
+
+- Utiliser le test chi^2 pour analyser vos données. 
+
+### Etat de progression 
+
+A la fin de ce module, vous devez avoir 
+
+- un fichier `biometry2019.Rmd` 
+    + une section introduction qui décrit vos données
+    + une section but qui explicite la question que vous vous posez
+    + une section M&M qui explicite votre protocole d'échantillonage 
+    + une section résultats qui comprend au moins 3 graphiques pertinents et 2 tableaux pertinents
+    + une section discussion vide pour le moment 
+    + une section conclusion vide pour le moment
+
+
+
