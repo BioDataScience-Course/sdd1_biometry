@@ -7,6 +7,8 @@ Ce projet porte sur la biométrie humaine. Ce dernier est un projet qui va évol
 
 Il est possible que ce document évolue au cours du temps. N'hésitez pas à aller vérifier le lien suivant afin de voir les modifications dans les consignes : <https://github.com/BioDataScience-Course/sdd1_biometry>
 
+------
+
 ## Module 2 : Workflow en biologie : comparaison R et Word _versus_ R et R Markdown
 
 Exercice du cours de [Science des Données Biologiques I de l'Université de Mons, module 02](http://biodatascience-course.sciviews.org/sdd-umons/integration-des-graphiques-dans-un-rapport-r-markdown.html#a-vous-de-jouer-4).
@@ -88,6 +90,8 @@ A la fin de ce module, vous devez avoir
 
 - un fichier au format .md nommé `workflow.md` (dans le dossier `analysis`) qui comprend votre comparaison des workflows.
 
+-----
+
 ## Module 3 et 4 : descriptions graphiques
 
 ### Objectif
@@ -98,6 +102,8 @@ A la fin de ce module, vous devez avoir
 
 A la fin de ces modules, vous devez avoir différents graphiques dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`) qui vont décrire les données. Votre rapport doit comprendre au moins 3 graphiques différents. Ces graphiques doivent être explicité dans votre rapport. 
 
+-------
+
 ## Module 5
 
 ### Objectifs
@@ -106,7 +112,13 @@ A la fin de ces modules, vous devez avoir différents graphiques dans la section
 
 ### Etat de progression 
 
-A la fin de ce module, vous devez proposer au moins 2 tableaux résumant les données mis à votre disposition dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`). Chaque tableau doit être explicité dnas le rapport
+A la fin de ce module, vous devez proposer au moins 2 tableaux résumant les données mis à votre disposition dans la section résultat de votre rapport `biometry.Rmd` (dans le dossier `analysis`). Chaque tableau doit être explicité dnas le rapport.
+
+### Challenge
+
+Une série d'exercices vous sont proposé à la fin du module 5 sous la forme d'un challenge. Consignez le résultat de vos exercices dans un fichier Rmd spécifique.
+
+------
 
 ## Module 6
 
@@ -129,6 +141,8 @@ A la fin de ce module, vous devez avoir :
 - sur base des données que vous avez collecté, vous devez vous fixer une question de recherche ciblée que vous préciserez dans la section but de votre rapport. 
 
 - Votre protocole d'acquisition des données doit être explicité dans la section matériels et méthodes
+
+------
 
 ## Module 8
 
