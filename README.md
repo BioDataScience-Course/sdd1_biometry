@@ -162,5 +162,59 @@ A la fin de ce module, vous devez avoir
     + une section discussion vide pour le moment 
     + une section conclusion vide pour le moment
 
+- votre analyse doit comprendre au moins un test de chi^2
+
+------
+
+## Module 9
+
+### Objectif 
+
+- Utiliser les différentes variantes du test t de Student ou le test de Wilcoxon-Mann-Withney pour analyser vos données. 
+
+### Etat de progression
+
+Votre analyse doit comprendre au moins une des variantes du test de Student ou de Wilcoxon-Mann-Withney
+
+------
+
+## Module 10 & module 11 
+
+### Objectif 
+
+- Utiliser les différentes variantes du modèle linéaire présentées, anciennement analyse de variance (ANOVA).
+
+- Savoir effectuer des tests de comparaison multiples
+
+### Etat de progression
+
+Votre analyse doit comprendre au moins une analyse de variances à un ou deux facteurs. Utilisez l'analyse la plus pertinente.
+
+------
+
+## Module 12
+
+### Objectif 
+
+- Utiliser les différentes variantes du modèle linéaire présentées, anciennement analyse de variance (ANOVA).
+
+- Savoir effectuer des tests de comparaison multiples
+
+### Etat de progression
+
+Votre analyse doit comprendre au moins test de corrélation.  Utilisez le test le plus pertinent.
+
+A la fin de ce module, vous devez avoir 
+
+- un fichier `biometry2019.Rmd` 
+    + une section introduction qui décrit vos données
+    + une section but qui explicite la question que vous vous posez
+    + une section M&M qui explicite votre protocole d'échantillonage 
+    + une section résultats qui comprend au moins 3 graphiques pertinents, 2 tableaux pertinents et les analyses statistiques demandé durant l'ensemble des modules. 
+    + une section discussion  qui critique vos résultats obtenu. Cette section n'est donc plus une description des données mais une critique des résultats obtenus. 
+    + une section conclusion  qui propose une conclusion de ce travail.
+    
+**Astuces : Lisez la section [Rédaction scientifique](http://biodatascience-course.sciviews.org/sdd-umons/redaction-scientifique.html)**
+
 
 
