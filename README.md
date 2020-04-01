@@ -214,7 +214,7 @@ A la fin de ce module, vous devez avoir
     + une section discussion  qui critique vos résultats obtenu. Cette section n'est donc plus une description des données mais une critique des résultats obtenus. 
     + une section conclusion  qui propose une conclusion de ce travail.
     
-**Astuces : Lisez la section [Rédaction scientifique](http://biodatascience-course.sciviews.org/sdd-umons/redaction-scientifique.html)**
+*Astuces : Lisez la section [Rédaction scientifique](http://biodatascience-course.sciviews.org/sdd-umons/redaction-scientifique.html)*
 
 
 
