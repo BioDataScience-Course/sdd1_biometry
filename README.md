@@ -144,6 +144,12 @@ A la fin de ce module, vous devez avoir :
 
 ------
 
+## Module 7
+
+Aucun ajout spécifique n'est demandé concernant ce module.
+
+------
+
 ## Module 8
 
 ### Objectif 
